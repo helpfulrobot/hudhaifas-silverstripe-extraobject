@@ -1,0 +1,25 @@
+{
+    "name": "hudhaifas/silverstripe-ssplus",
+    "description": "",
+    "type": "silverstripe-module",
+    "homepage": "https://github.com/hudhaifas/silverstripe-ssplus",
+    "keywords": ["silverstripe", "ssplus"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hudhaifa Shatnawi",
+            "email": "me@hudhaifa.com"
+        }
+    ],
+    "support": {
+        "issues": "http://github.com/hudhaifas/silverstripe-ssplus/issues"
+    },
+    "require": {
+        "silverstripe/cms": "~3.0",
+        "silverstripe/framework": "~3.0",
+        "silverstripe/tagfield": "^1.0"
+    },
+    "extra": {
+        "installer-name": "ssplus"
+    }
+}
